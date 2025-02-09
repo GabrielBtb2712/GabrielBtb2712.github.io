@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I am passionate about software and currently undergoing intensive preparation for pentesting. My goal is to strengthen my skills in cybersecurity.
