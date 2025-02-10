@@ -5,11 +5,7 @@ autor: Gabriel Eduardo
 
 # [](#header-1)Maquina Cap-HackTheBox
 La máquina figura en Hack The Box como una máquina Linux, con un nivel de dificultad fácil.
-Esta máquina cubre los siguientes conceptos:
-*
-*
-*
-*
+
 
 ###  
 ![](/assets/Machine_Cap/Captura%20de%20pantalla_20250209_143308.png)
