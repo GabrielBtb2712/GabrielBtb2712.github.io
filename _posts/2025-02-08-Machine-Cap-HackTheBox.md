@@ -7,6 +7,7 @@ autor: Gabriel Eduardo
 La máquina figura en Hack The Box como una máquina Linux, con un nivel de dificultad fácil.
 
 
+
 ###  
 ![](/assets/Machine_Cap/Captura%20de%20pantalla_20250209_143308.png)
 
