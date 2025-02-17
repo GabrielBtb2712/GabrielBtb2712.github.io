@@ -113,6 +113,7 @@ nmap --spoof-mac Apple 192.168.1.1
 
 ## 7. **Stealth Scan – `-sS`**
 
+
 El **escaneo sigiloso SYN** es una técnica que no completa la conexión TCP, lo que dificulta su detección.
 
 ### ¿Cómo funciona?
